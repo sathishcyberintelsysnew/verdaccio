@@ -44,7 +44,7 @@
     "core-js": "3.28.0",
     "debug": "4.3.4",
     "fastify": "4.13.0",
-    "fastify-plugin": "4.4.0",
+    "fastify-plugin": "4.5.0",
     "lodash": "4.17.21"
   },
   "devDependencies": {
